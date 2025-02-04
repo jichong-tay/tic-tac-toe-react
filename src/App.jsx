@@ -4,7 +4,7 @@ import Player from "./components/Player.jsx";
 import Gameboard from "./components/Gameboard.jsx";
 import Log from "./components/Log.jsx";
 import { WINNING_COMBINATIONS } from "./winning-combinations.js";
-import GameOver from "./components/Gameover.jsx";
+import GameOver from "./components/GameOver.jsx";
 
 const PLAYERS = {
   X: "Player 1",
